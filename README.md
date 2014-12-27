@@ -1,4 +1,4 @@
 community-test
 ==============
 
-Just a test for community .
+Just a test for community.
